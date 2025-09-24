@@ -25,7 +25,7 @@ Summary:
 ------------------------------------------------------------
 2. COMMERCIAL LICENSE (Enterprise Edition)
 ------------------------------------------------------------
-License: Proprietary, issued by [Your Company Name]
+License: Proprietary, issued by Testandi
 Contact: abrahamdoe@gmail.com
 
 Summary:
