@@ -13,7 +13,7 @@ This algorithm empowers individuals, families, and organizations to make smarter
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
-- [Prerequisites](#-prerequisites)
+- [Prerequisites](#prerequisites)
 - [Enterprise Use Cases](#enterprise-use-cases)
 - [License](#license)
 - [Contact](#contact)
@@ -50,7 +50,7 @@ Basic understanding of Visual Studio Code or Jupyter Notebooks
 - Insurance. Enhance underwriting with predictive financial wellness data
 - Wealth Management. Spot heirs, gaps, and legacy opportunities at scale
 
-## License⚖️
+# License⚖️
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
 # Contact📬
@@ -58,7 +58,7 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Email: abrahamdoe@gmail.com
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
-## Acknowledgements🙏
+# Acknowledgements🙏
 - CFP Board for the Code of Ethics and Standards of Conduct. 
 - Dalton Education for defining holistic financial wellness models.
 - The College for Financial Planning 
@@ -68,7 +68,6 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - UC Irvine datasets used for experimentation, hypothesis testing, and model validation.
 - OpenAI for foundational ML knowledge & frameworks.
 - I am grateful. Thank you! 
-
 
 
 
