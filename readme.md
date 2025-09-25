@@ -15,7 +15,7 @@ This algorithm empowers individuals, families, and organizations to make smarter
 - [How to Use](#how-to-use)
 - [Prerequisites](#prerequisites)
 - [Enterprise Use Cases](#enterprise-use-cases)
-- [License](#license)
+- [License](#license-)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
