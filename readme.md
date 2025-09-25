@@ -9,15 +9,15 @@ This algorithm empowers individuals, families, and organizations to make smarter
 ![alt text](wall-street-bull.png)
 [Sample Comprehensive Financial Plan PDF](comprehensive_financial_plan.pdf)
 
-# Table of Contents  📖 
+# Table of Contents📖
 - [Features](#-features)
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
 - [Prerequisites](#-prerequisites)
-- [Enterprise Use Cases](#-enterprise-use-cases)
-- [License](#-license)
+- [Enterprise Use Cases](#-nterprise-use-cases)
+- [License](#license)
 - [Contact](#-contact)
-- [Acknowledgements](#-acknowledgements)
+- [Acknowledgements](#acknowledgements)
 
 # Features✨
 - 20 factor Financial Wellness model 💃
@@ -26,7 +26,7 @@ This algorithm empowers individuals, families, and organizations to make smarter
 - Savings & Investment Readiness Scores – Evaluates preparedness for goals like retirement, college, or emergencies. 📈 
 - Heirloom Planner – Tracks family asset transfer potential and readiness. 📘
 
-# Tech Stack 🛠
+# Tech Stack🛠
 - Language: Python 3.11+
 - ML Libraries: Scikit-learn, XGBoost, LightGBM
 - Data: Pandas, NumPy, or Firebase
@@ -43,22 +43,22 @@ Apple iOS
 Python 3.10+
 Basic understanding of Visual Studio Code or Jupyter Notebooks
 
-# AI/ML/LLM Enterprise Use Cases 📈
+# Enterprise Use Cases📈
 - Financial Advisors. Personalize client roadmaps, track progress, improve retention
 - HR / Employers. Offer wellness assessments as benefits
 - Banks & FinTechs. Prequalify users for products based on predictive behaviors
 - Insurance. Enhance underwriting with predictive financial wellness data
 - Wealth Management. Spot heirs, gaps, and legacy opportunities at scale
 
-## License ⚖️ 
+## License⚖️
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
-# Contact  📬
+# Contact📬
 - Name: Abraham Doe
 - Email: abrahamdoe@gmail.com
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
-## Acknowledgements 🙏
+## Acknowledgements🙏
 - CFP Board & FPA for defining holistic financial wellness models.
 - Dalton Education 
 - NYU School of Professional Studies 
