@@ -10,13 +10,13 @@ This algorithm empowers individuals, families, and organizations to make smarter
 [Sample Comprehensive Financial Plan PDF](comprehensive_financial_plan.pdf)
 
 # Table of Contents📖
-- [Features](#-features)
+- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
 - [Prerequisites](#-prerequisites)
-- [Enterprise Use Cases](#-nterprise-use-cases)
+- [Enterprise Use Cases](#enterprise-use-cases)
 - [License](#license)
-- [Contact](#-contact)
+- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 # Features✨
@@ -59,14 +59,18 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
 ## Acknowledgements🙏
-- CFP Board & FPA for defining holistic financial wellness models.
-- Dalton Education 
-- NYU School of Professional Studies 
+- CFP Board for the Code of Ethics and Standards of Conduct. 
+- Dalton Education for defining holistic financial wellness models.
+- The College for Financial Planning 
+- NYU School of Professional Studies. 
+- The CFA Institute. 
 - US Census for real-world finance research.
 - UC Irvine datasets used for experimentation, hypothesis testing, and model validation.
 - OpenAI for foundational ML knowledge & frameworks.
-- Community contributors & financial coaches who provided user stories and anonymized profiles.
 - I am grateful. Thank you! 
+
+
+
 
 
 
